@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90466ce6-1516-4aa7-ae96-82999d7dbbcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="2edd20b8-1373-492f-9ad5-4fc6b2a7cf7f" />
+  <component name="ProjectId" id="1YrsTYeE6x7AWeiOyBYFaA8J7Fb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90466ce6-1516-4aa7-ae96-82999d7dbbcb" name="Default Changelist" comment="" />
+      <created>1583712056260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583712056260</updated>
+      <workItem from="1583712059433" duration="57000" />
+      <workItem from="1583712179274" duration="38000" />
+      <workItem from="1583712337800" duration="1150000" />
+      <workItem from="1583838275506" duration="154000" />
+      <workItem from="1583838456955" duration="267000" />
+      <workItem from="1583838771885" duration="23630000" />
+      <workItem from="1584282550808" duration="32544000" />
+      <workItem from="1585566841144" duration="887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584458996119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584458996119" />
+    <state x="241" y="36" key="SettingsEditor" timestamp="1583838846185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="241" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583838846185" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583838327202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583838327202" />
+  </component>
+</project>
